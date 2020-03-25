@@ -731,7 +731,7 @@ alignmentZones = (
 );
 ascender = 1240;
 capHeight = 700;
-custom = Heavy;
+custom = ExtraBlack;
 customParameters = (
 {
 name = hheaAscender;
@@ -71822,7 +71822,7 @@ interpolationWidth = 0;
 instanceInterpolations = {
 "EA657207-4E15-4023-BA2A-6FA5407A60CD" = 1;
 };
-name = Heavy;
+name = ExtraBlack;
 weightClass = Heavy;
 }
 );
